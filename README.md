@@ -115,9 +115,10 @@ Pandas
 1.Install dependencies
 ```
 pip install -r requirements.txt
-``
+```
 
 3️⃣ Run the Streamlit app
+
 ```
 streamlit run app_Simple_linear_regression.py
 ```
